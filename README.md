@@ -10,7 +10,7 @@
 - Lancaster Mennonite High School (Lancaster,PA)
 
 ## Space
-<a href="https://www.youtube.com/watch?v=PaSON7HvFao"><img width="100" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a><img width="100" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228726656-e515a94f-a113-499c-8978-487d1b43baf3.png"><a href="https://www.youtube.com/watch?v=KzI0tb4bZyY"><img width="100" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=PaSON7HvFao" target="_blank"><img width="90" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a><img width="90" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228726656-e515a94f-a113-499c-8978-487d1b43baf3.png"><a href="https://www.youtube.com/watch?v=KzI0tb4bZyY" target="_blank"><img width="90" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
 
 
 
