@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/watch?v=84cWrF3m2t0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
 <a href="https://www.youtube.com/watch?v=21qPTC_W2zE" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
 <a href="https://www.youtube.com/watch?v=7152_C9s5N0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228726656-e515a94f-a113-499c-8978-487d1b43baf3.png">
+
   
   
   
@@ -27,6 +27,10 @@
   
 <!--
 <a href="~~ ~~ ~~"> 사진 </a>
+
+<img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228726656-e515a94f-a113-499c-8978-487d1b43baf3.png">
+
+
 
 <a href = "https://www.youtube.com/watch?v=cjWnW0hdF1Y"><img width="100" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228729276-e6f5d0b3-6653-4cd3-90af-b5f371f505ea.png"></a>
 
