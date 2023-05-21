@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKayAhn0126&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</br><a href="https://solved.ac/profile/kayahn93">![mazandi profile](http://mazandi.herokuapp.com/api?handle=kayahn93&theme=dark)</a>
 
 ## Work
-- At [Ares ltd.](https://aresinfo.com/default/) as an ASTT engineer from Aug 2020 to Feb 2022 (_previous_)
+- former ASTT engineer at [Ares ltd.](https://aresinfo.com/default/) from Aug. 2020 to Feb. 2022
 
 ## Education
 - Widener University - Main Campus (Chester,PA)
