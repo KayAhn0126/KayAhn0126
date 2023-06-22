@@ -7,22 +7,7 @@
 ## Education
 - Widener University - Main Campus (Chester,PA)
   - graduated with a bachelor's degree in Computer Science
-- Lancaster Mennonite High School (Lancaster,PA)
-
-## Space
-<a href="https://www.youtube.com/watch?v=KzI0tb4bZyY" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=PaSON7HvFao" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=jZCW43jKxyc" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=4bsXRqI1WbI" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=uuZE_IRwLNI" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=6ySRE_H-tJs" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=84cWrF3m2t0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=21qPTC_W2zE" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-<a href="https://www.youtube.com/watch?v=7152_C9s5N0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
-
-  
-  
-  
+- Lancaster Mennonite High School (Lancaster,PA)  
   
   
 <!--
@@ -48,4 +33,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+## Space
+<a href="https://www.youtube.com/watch?v=KzI0tb4bZyY" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=PaSON7HvFao" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=jZCW43jKxyc" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=4bsXRqI1WbI" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=uuZE_IRwLNI" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=6ySRE_H-tJs" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=84cWrF3m2t0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=21qPTC_W2zE" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+<a href="https://www.youtube.com/watch?v=7152_C9s5N0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
 -->
+
