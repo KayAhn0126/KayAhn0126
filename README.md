@@ -3,7 +3,7 @@
 
 ## Work
 - Software Engineer(C++) at [TelePIX](https://telepix.net) - current
-- ASTT engineer(C++) at [Ares ltd.](https://aresinfo.com) from Aug. 2020 to Feb. 2022
+- ASTT engineer(C++) at [Ares ltd.](https://aresinfo.com) - from Aug. 2020 to Feb. 2022
   
 <!--
 <a href="~~ ~~ ~~"> 사진 </a>
