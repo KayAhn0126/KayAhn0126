@@ -1,9 +1,8 @@
-## Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKayAhn0126&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</br><a href="https://solved.ac/profile/kayahn93">![mazandi profile](http://mazandi.herokuapp.com/api?handle=kayahn93&theme=dark)</a>
+## Good to see you!👋
 
-## Work
-- Satellite Payload Software Engineer(C++) at [TelePIX](https://telepix.net) - current
-- ASTT(Action Speed Tactical Trainer) Engineer(C++) at [Ares ltd.](https://aresinfo.com) - from Aug. 2020 to Feb. 2022
+### Work
+- Satellite Payload Software Engineer(C++) at [TelePIX](https://telepix.net) - Jun-2024
+- ASTT(Action Speed Tactical Trainer) Engineer(C++) at [Ares ltd.](https://aresinfo.com) - from Aug-2020 to Feb-2022
   
 <!--
 <a href="~~ ~~ ~~"> 사진 </a>
@@ -40,5 +39,8 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=84cWrF3m2t0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
 <a href="https://www.youtube.com/watch?v=21qPTC_W2zE" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
 <a href="https://www.youtube.com/watch?v=7152_C9s5N0" target="_blank" rel="noopener noreferrer"><img width="60" alt="GCP" src="https://user-images.githubusercontent.com/40224884/228727305-d257a719-c55a-48f8-baf7-95ba7044b0c8.png"></a>
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKayAhn0126&count_bg=%23000000&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</br><a href="https://solved.ac/profile/kayahn93">![mazandi profile](http://mazandi.herokuapp.com/api?handle=kayahn93&theme=dark)</a>
 -->
 
