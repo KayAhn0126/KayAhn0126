@@ -1,8 +1,8 @@
 ## Good to see you!👋
 
 ### Work
-- Satellite Payload Software Engineer(C++) at [TelePIX](https://telepix.net) - Jun-2024
-- ASTT(Action Speed Tactical Trainer) Engineer(C++) at [Ares ltd.](https://aresinfo.com) - from Aug-2020 to Feb-2022
+- Satellite Payload Software Engineer(C++) at [TelePIX](https://telepix.net) - Jun/2024 ~ 
+- ASTT(Action Speed Tactical Trainer) Engineer(C++) at [Ares ltd.](https://aresinfo.com) - Aug/2020 ~ Feb/2022
   
 <!--
 <a href="~~ ~~ ~~"> 사진 </a>
